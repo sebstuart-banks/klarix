@@ -16,7 +16,7 @@ module.exports = {
   plugins: [
     {
       // Create posts from markdown files
-      use: '@gridsome/source-filesystem',
+       use: '@gridsome/source-filesystem',
       options: {
         typeName: 'Post',
         path: 'content/posts/*.md',

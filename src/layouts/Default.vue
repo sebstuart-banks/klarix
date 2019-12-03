@@ -15,7 +15,7 @@
       <slot/>
     </main>
 
-    <footer class="footer">
+     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
       <span class="footer__links">Powered by <a href="//www.suits.at"> SUITS </a></span>
     </footer>
