@@ -16,6 +16,7 @@
     </main>
 
     <footer>
+      <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
     </footer>
 
   </div>
