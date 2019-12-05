@@ -10,7 +10,7 @@
 		</p>
 
 		<p class="author__links">
-			<a href="https://linkedin.com/en/sstuartbanks">Connect on LinkedIn</a>
+			<a href="https://www.linkedin.com/in/sstuartbanks/">Connect on LinkedIn</a>
 		</p>
 
 	</div>
